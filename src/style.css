@@ -164,7 +164,7 @@ button:hover {
 	position: absolute;
 	height: 450px;
 	width: 920px;
-	background-color: var(--grayishBlue);
+	background-color: var(--lightGrayishBlue);
 	border-radius: 0 0 0 30px;
 	right: 0;
 	z-index: -1;
